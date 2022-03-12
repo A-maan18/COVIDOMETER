@@ -1,6 +1,6 @@
 @font-face{
     font-family: 'Gilroy';
-    src: url(F:\AMAN WORK\CODING\Web Development\Main Site\resources\css\Gilroy-Regular.woff) format(woff);
+    src: url(resources/images/Gilroy-Regular.woff) format(woff);
 }
 
 *{
@@ -119,7 +119,7 @@ h1{
 /* -------- BG IMAGE -------- */
 .stats{
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)) ,url('../img/bg.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)) ,url('resources/images/bg.jpg');
     background-size: cover;
     margin-left: 10%;
 
